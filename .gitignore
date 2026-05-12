@@ -29,5 +29,9 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### Credenciales locales ###
+application-local.yml
+*.env
+
 ### VS Code ###
 .vscode/
